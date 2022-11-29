@@ -1,3 +1,7 @@
-# AdIntel
-# Competitrack / Numerator Related R program files
-# Client Kajoli Tankha, Michael Doran, Samantha Moore
+# Course5 Intelligence
+
+
+# Northern Trust
+Training Dashboard Survey Report (TDS)
+SOC_Span of Control_SnP Code
+Enhanced FTE Tracking Report (GRP)
